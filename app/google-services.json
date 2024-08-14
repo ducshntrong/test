@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061310176454",
+    "firebase_url": "https://tuhoc-firebase-ed688-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuhoc-firebase-ed688",
+    "storage_bucket": "tuhoc-firebase-ed688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061310176454:android:3ec2ee3dd5c717f1ff8bc7",
+        "android_client_info": {
+          "package_name": "com.example.a23firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061310176454-7govobf5m90p45k49ac695ajkf375je1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCfW5gvgcBiQAYC4v1c9US37IObSLClc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061310176454-7govobf5m90p45k49ac695ajkf375je1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
